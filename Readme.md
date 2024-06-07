@@ -8,11 +8,6 @@ This is a sample auction service built with Java Spring Boot, Apache Kafka, and 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
-- [API Documentation](#api-documentation)
-- [Usage](#usage)
-- [Kafka Integration](#kafka-integration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
